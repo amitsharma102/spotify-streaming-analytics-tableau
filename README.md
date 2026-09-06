@@ -4,6 +4,8 @@ A personal, interactive **Spotify Wrapped** — rebuilt as a Tableau dashboard f
 
 ![Tableau](https://img.shields.io/badge/Built%20with-Tableau-E97627?style=flat&logo=tableau&logoColor=white)
 ![Data](https://img.shields.io/badge/Data-Spotify%20Extended%20Streaming%20History-1DB954?style=flat&logo=spotify&logoColor=white)
+![Status](https://img.shields.io/badge/Status-Complete-2E8B57?style=flat)
+
 
 🔗 **Live dashboard:** https://public.tableau.com/views/spotifydashboard_17741827423100/lightmode?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
